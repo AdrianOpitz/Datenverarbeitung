@@ -20,3 +20,10 @@ Zudem kann der Text sowie Überschrift bestimmt werden.
 3.)	Warum hast du zum Beispiel ein bestimmtes Framework gewählt?
 
 Ich habe das .Net Framework gewählt in Visual Studio. Da ich in einem Praktikum erste Erfahrungen sammeln durfte.
+
+
+>>> Mit dem Projekt bin ich nicht fertig geworden. Ein Problem hat sich mir in den Weg gestellt. Wenn man auf Suchen klickt, öffnet sich das Explorer 
+Fenster von Windows. Sobald ich jedoch eine Datei hochladen möchte erscheint eine Fehlermeldung im Code. 
+Googeln hat mich auch nicht weiter gebracht.
+
+Das graue Feld soll eine Tabelle der hochgeladenen Datei zeigen.
