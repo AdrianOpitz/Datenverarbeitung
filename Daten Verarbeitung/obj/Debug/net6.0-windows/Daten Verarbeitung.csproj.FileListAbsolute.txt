@@ -1,0 +1,17 @@
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\bin\Debug\net6.0-windows\Daten Verarbeitung.exe
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\bin\Debug\net6.0-windows\Daten Verarbeitung.deps.json
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\bin\Debug\net6.0-windows\Daten Verarbeitung.runtimeconfig.json
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\bin\Debug\net6.0-windows\Daten Verarbeitung.dll
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\bin\Debug\net6.0-windows\Daten Verarbeitung.pdb
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\Daten Verarbeitung.csproj.AssemblyReference.cache
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\Daten_Verarbeitung.Form1.resources
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\Daten Verarbeitung.csproj.GenerateResource.cache
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\Daten Verarbeitung.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\Daten Verarbeitung.AssemblyInfoInputs.cache
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\Daten Verarbeitung.AssemblyInfo.cs
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\Daten Verarbeitung.csproj.CoreCompileInputs.cache
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\Daten Verarbeitung.dll
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\refint\Daten Verarbeitung.dll
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\Daten Verarbeitung.pdb
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\Daten Verarbeitung.genruntimeconfig.cache
+F:\_Ordner_\Programmierungen\Firmen Projekte\UDG United Ditigal Group\Daten Verarbeitung\Daten Verarbeitung\obj\Debug\net6.0-windows\ref\Daten Verarbeitung.dll
