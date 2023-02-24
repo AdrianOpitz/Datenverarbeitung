@@ -26,4 +26,6 @@ Ich habe das .Net Framework gewählt in Visual Studio. Da ich in einem Praktikum
 Fenster von Windows. Sobald ich jedoch eine Datei hochladen möchte erscheint eine Fehlermeldung im Code. 
 Googeln hat mich auch nicht weiter gebracht.
 
+Zum Programm:
 Das graue Feld soll eine Tabelle der hochgeladenen Datei zeigen.
+Das Textfeld soll den Pfad der Hochgeladenen Datei anzeigen.
